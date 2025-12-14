@@ -1,0 +1,3 @@
+This project by Prajwal And Sameer - recommends movies based on user-selected genre.
+It is written in C language using arrays and random function.
+U Can Copy Our code if u want . 
