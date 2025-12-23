@@ -1,0 +1,2 @@
+gcc moviemate.c -o MovieMate -lgdi32 -lshell32
+MovieMate
