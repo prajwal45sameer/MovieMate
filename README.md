@@ -1,24 +1,33 @@
-# MovieMate
+🎬 MovieMate
 
-A C project by Prajwal-Sameer that recommends movies
-based on selected genres.
+MovieMate is a movie recommendation system developed using the C programming language.  
+This project has two versions:
 
-## Genres
-- Romance
-- Horror
-- Sci-Fi
-- Comedy
-- Action
+1. C-Code.
+2. Windows GUI application.
 
-## Folder Structure
-- src → C source code
-- docs → algorithm & description
-- screenshots → output images
+The goal of this project is to show how the same movie dataset and logic
+can be used in both C code and GUI Application.
 
-## How to Run
-gcc main.c -o movie
-./movie
+📌 Project Features
 
-# Screenshots
-Output screenshots of the program execution
-are available in the screenshots folder.
+- Genre-based movie selection
+- Multiple genres such as Romance, Adventure, Comedy, Action, Animated, and Short Films.
+- Detailed movie information:
+  - Director
+  - Runtime
+  - IMDb rating
+  - Rotten Tomatoes rating
+  - Cast
+  - Awards
+  - Description
+- Trailer and Watch Movie links
+- Image display for each movie (GUI version)
+  
+🛠 Technologies Used
+
+- C Programming Language
+- Win32 API (for GUI)
+- GCC Compiler
+- CodeBlocks
+- Windows OS
