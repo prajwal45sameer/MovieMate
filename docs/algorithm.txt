@@ -1,26 +1,31 @@
 1.Start the application.
  2. Display the Home Screen with "Choose Your Genre".
 3. When the user clicks "Choose Your Genre":
-   a. Display five genre options:
-      Romance, Horror, Sci-Fi, Comedy, Action.
+   a. Display six genre options:
+      Romance, Adventure,Short Films,Animation, Comedy, Action.
    b. Display Back and Home buttons.
 4. When the user selects a genre:
    a. Hide all other genres.
    b. Display only the selected genre’s movie list
-      containing 10 movies.
-   c. Display Back, Home, and Watch Trailer buttons.
+      containing 5 movies.
+   c. Display Back, Home,Watch Movie, Watch Trailer buttons.
 5. When the user selects a movie from the list:
    a. Display movie details:
       - Movie name
       - Director
+      - Stars
+      - Awards
       - Runtime
       - IMDb rating
+      - Rotten Tomatoes Rating
       - Short description
 6. When the user clicks "Watch Trailer":
-   a. Open the movie trailer link in the web browser.
-7. When the user clicks "Back":
-   a. Return to the Genre Selection screen.
-8. When the user clicks "Home":
+   a. Open the movie trailer in the web browser.
+7. When the user clicks "Watch Movie":
+   a. Open the movie link in the web browseer.
+8. When the user clicks "Back":
+   a. Return to the previuos screen.
+9. When the user clicks "Home":
    a. Return to the Home screen.
-9. Repeat steps until the user exits the application.
-10. End
+10. Repeat steps until the user exits the application.
+11. End
